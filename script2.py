@@ -1,2 +1,2 @@
+# This is good programing advice
 print("readability counts.")
-print("Beautiful is better than ugly.")
